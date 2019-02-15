@@ -1,0 +1,27 @@
+a�ZX<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"531";s:11:"post_author";s:1:"5";s:9:"post_date";s:19:"2016-08-30 20:23:10";s:13:"post_date_gmt";s:19:"2016-08-31 00:23:10";s:12:"post_content";s:4732:"During the busy tourist season, my wife, Ann, often wonders where I am and what I’m up to…a bit of “Where’s Bob?” instead of “Where’s Waldo”.  Although I do try to keep my family informed of my whereabouts, a recent email made them question my Maritime touring and if perhaps, I had moved further afield.  A guest of BDT’s recently travelled to Iceland and sent me the following message:
+
+<em>“Not only did the gent I saw remind me of you, he had nearly the same Tilley hat you wore.  He also was very happy. As part of Iceland's tourism activities, they're bringing in lots of cruise ships from US, Canada, and Europe. I remember you telling us that was your specialty, so I assumed when I saw your double that was why you were there.”</em>
+
+<img class="alignnone size-medium wp-image-550" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_0829-1-234x300.jpg" alt="IMG_0829" width="234" height="300" />
+
+Well, yes, my Tilley hat is a telltale sign of me, cruise ship excursions are certainly a big part of my business, but I haven’t taken any trips to Iceland nor am I running excursions in Iceland….I think I had to do a little convincing with my wife that I am not an international jet-setter!
+
+I decided to spend some time with Ann and explore our own back yard.  We began in Halifax Public Gardens which is a glorious sight at this time of year.  Multiple weddings were being photographed, children were darting in and out of the flowers, but what really captured my attention were the Dahlias!  On, August 31<sup>st</sup>, Halifax is home to an<strong> Annual Dahlia Day Celebration, </strong>hosted by the Halifax Public Gardens &amp; the Nova Scotia Dahlia Society and judging by the display in the gardens, it will be a spectacular celebration!
+
+<img class="alignnone size-medium wp-image-554" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1160-e1472298783567-225x300.jpg" alt="IMG_1160" width="225" height="300" /> <img class="alignnone size-medium wp-image-553" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1157-e1472298747261-225x300.jpg" alt="IMG_1157" width="225" height="300" />
+
+<img class="alignnone size-medium wp-image-552" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1155-e1472298703190-225x300.jpg" alt="IMG_1155" width="225" height="300" /> <img class="alignnone size-medium wp-image-551" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1144-e1472298677492-225x300.jpg" alt="IMG_1144" width="225" height="300" />
+
+From the city sights to country roads, Ann and I travelled along the Bay of Fundy and spent time exploring Baxters Harbour, Long Beach and Canning.
+
+<img class="alignnone size-medium wp-image-555" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1072-e1472299144292-225x300.jpg" alt="IMG_1072" width="225" height="300" /> <img class="alignnone size-medium wp-image-556" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1078-e1472299180116-225x300.jpg" alt="IMG_1078" width="225" height="300" />
+
+<img class="alignnone size-medium wp-image-557" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1080-e1472299224564-225x300.jpg" alt="IMG_1080" width="225" height="300" /> <img class="alignnone size-medium wp-image-558" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1081-e1472299252578-225x300.jpg" alt="IMG_1081" width="225" height="300" />
+
+<img class="alignnone size-medium wp-image-559" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1085-e1472299627326-225x300.jpg" alt="IMG_1085" width="225" height="300" /> <img class="alignnone size-medium wp-image-560" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1086-e1472299664625-225x300.jpg" alt="IMG_1086" width="225" height="300" />
+
+<img class="alignnone size-medium wp-image-561" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1094-e1472299728192-225x300.jpg" alt="IMG_1094" width="225" height="300" /> <img class="alignnone size-medium wp-image-562" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1104-e1472299765190-225x300.jpg" alt="IMG_1104" width="225" height="300" />
+
+I overwhelmed her with my wealth of knowledge about the area, chatted about tours I had brought here, buses that had broken down, Big Stop breakfasts and huge lobsters to be found!  I think she now believes I am not an International jet-setting tour guide…just a down-home Nova Scotian guy who loves his Province.
+
+<strong>BUT</strong>, if you do happen to see my double anywhere, please send a photo or let me know where…";s:10:"post_title";s:25:"Doppelganger and Dahlias";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:24:"doppelganger-and-dahlias";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-08-30 20:23:10";s:17:"post_modified_gmt";s:19:"2016-08-31 00:23:10";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:39:"http://bluediamondtours.com/blog/?p=531";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

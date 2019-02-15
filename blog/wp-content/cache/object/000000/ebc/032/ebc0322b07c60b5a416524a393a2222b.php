@@ -1,0 +1,25 @@
+a�ZX<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"529";s:11:"post_author";s:1:"5";s:9:"post_date";s:19:"2016-08-26 13:37:35";s:13:"post_date_gmt";s:19:"2016-08-26 17:37:35";s:12:"post_content";s:4031:"Due to our guests’ flight having an unexpected overnight detour and delay in Bangor, Maine, our sightseeing didn’t begin until a day later than expected.  We were however, still able to collect them from the airport and let the exploring begin!
+
+Following pick-up from the airport, hotel check-in and settling in, we decided to tour Halifax with a visit to the Citadel where we witnessed the noon gun salute and had an interesting time exploring the Trench War Display.
+
+<img class="alignnone size-medium wp-image-533" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1240-e1472231170173-225x300.jpg" alt="IMG_1240" width="225" height="300" /> <img class="alignnone size-medium wp-image-534" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1243-e1472231196643-225x300.jpg" alt="IMG_1243" width="225" height="300" />
+
+<img class="alignnone size-medium wp-image-535" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1245-e1472231221342-225x300.jpg" alt="IMG_1245" width="225" height="300" /> <img class="alignnone size-medium wp-image-536" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1256-e1472231244933-225x300.jpg" alt="IMG_1256" width="225" height="300" />
+
+A full day of touring took us to the coast to visit Peggy’s Cove, a Nova Scotia must-do for all visitors.  From there, we meandered along the Lighthouse Route and popped into the quaint community of Mahone Bay, known for its artisans, shopping and fabulous restaurants.  We ended the day with a visit to Lunenburg, a UNESCO World Heritage Site, stunning architecture and beautiful views of the coastline.
+
+<img class="alignnone size-medium wp-image-539" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1263-e1472231937379-225x300.jpg" alt="IMG_1263" width="225" height="300" /> <img class="alignnone size-medium wp-image-540" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1275-e1472232004134-225x300.jpg" alt="IMG_1275" width="225" height="300" />
+
+Visiting the dramatic tidal changes in the Bay of Fundy is a must-do.  After experiencing low tide in Hall’s Harbour, we made our way down the mountain offering superb views of the fertile fields in full swing with their produce.  At the bottom of the mountain is a rather gorgeous little museum, just off the beaten track, Prescott House.  The Georgian House with manicured gardens is definitely a place worth visiting…before heading back to Hall’s Harbour to witness high-tide.
+
+<img class="alignnone size-medium wp-image-538" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1280-e1472231593781-225x300.jpg" alt="IMG_1280" width="225" height="300" />  <img class="alignnone size-medium wp-image-541" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1287-e1472232469848-225x300.jpg" alt="IMG_1287" width="225" height="300" />
+
+<img class="alignnone size-medium wp-image-542" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1290-e1472232510990-225x300.jpg" alt="IMG_1290" width="225" height="300" />  <img class="alignnone size-medium wp-image-543" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_1294-e1472232573817-225x300.jpg" alt="IMG_1294" width="225" height="300" />
+
+A quick trip into Wolfville was a must-do for me, as I had a beautiful care package my wife had prepared for my granddaughter, who works in the Wolfville VIC - Tourism is evidently in our genes!  Quite a handy place to pop into, not just for me but also my guests.
+
+<img class="alignnone size-medium wp-image-544" src="http://bluediamondtours.com/blog/wp-content/uploads/2016/08/IMG_0829-e1472232740977-225x300.jpg" alt="IMG_0829" width="225" height="300" />
+
+The following day, Dave, one of our other driver/guides, took these guests under his capable wings, as they headed north to tour the Cabot Trail.
+
+We were thankful to hear their return flight home was without incident or delay.";s:10:"post_title";s:21:"Detours and Delays...";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:18:"detours-and-delays";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-08-26 13:37:35";s:17:"post_modified_gmt";s:19:"2016-08-26 17:37:35";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:39:"http://bluediamondtours.com/blog/?p=529";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

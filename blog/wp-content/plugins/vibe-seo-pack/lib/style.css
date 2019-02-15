@@ -1,0 +1,45 @@
+/* Vibe SEO Pack CSS
+*******************************************************************************/
+
+#adminmenu #toplevel_page_vsp-dashboard div.wp-menu-image{
+  background: transparent url('../../../../wp-admin/images/menu.png') no-repeat scroll -331px -33px;
+}
+#adminmenu #toplevel_page_vsp-dashboard:hover div.wp-menu-image,
+#adminmenu #toplevel_page_vsp-dashboard .wp-has-current-submenu div.wp-menu-image{
+  background: transparent url('../../../../wp-admin/images/menu.png') no-repeat scroll -331px -1px;
+}
+#seo-box-left {
+  width: 400px;
+  float: left;
+}
+#seo-box-right {
+  width: 330px;
+  float: right;
+}
+.vsp-bad {
+  color: red;
+  background: url(../../../../wp-admin/images/no.png) no-repeat left;
+  padding-left: 20px;
+}
+.vsp-ok {
+  color: green;
+  background: url(../../../../wp-admin/images/yes.png) no-repeat left;
+  padding-left: 20px;
+}
+#vibelink {
+  display: block !important;
+  width: 80px !important;
+  margin: 0 auto !important;
+  color: #999 !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 11px !important;
+  padding: 0 0 10px 0 !important;
+  text-decoration: none !important;
+}
+#vspdonatebox, #nohelpbox {
+  width: 400px;
+  padding: 5px 10px;
+  background: #FFFECC;
+  border: 1px solid #FAECB5;
+}
+
