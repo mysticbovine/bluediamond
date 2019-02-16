@@ -36,8 +36,35 @@
 ================================================== -->
   <body>
 	<!-- Fixed navbar -->
-	
 	<?php 
+// Program to display URL of current page. 
+  
+
+?> 
+	<?php 
+  
+  if (isset($_GET['referring_page'])){ 
+    $referring_page = $_GET['referring_page'];
+  } else {
+    if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') {
+       $referring_page = "https"; 
+    } else{
+      $referring_page = "http"; 
+      
+      // Here append the common URL characters. 
+      $referring_page .= "://"; 
+        
+      // Append the host(domain name, ip) to the URL. 
+      $referring_page .= $_SERVER['HTTP_HOST']; 
+        
+      // Append the requested resource location to the URL 
+      $referring_page .= $_SERVER['REQUEST_URI']; 
+            
+      // Print the link 
+      echo $referring_page; 
+    }
+        
+  }
 	global $page;
 	global $pagetitle;
 	global $subtitle;
@@ -54,7 +81,7 @@
 				<div class="col-md-9 col-md-offset-1 text-center">
 					<p class="lead">Your questions, comments and request for quotes are always welcome.</p>
 					<p>There are many ways to contact Blue Diamond Tours, please feel free to contact us today.</p>	
-					<p><b>Please note:<b/> we do not offer scheduled bus tours - only on demaand private tours.</p>	
+						
 				</div>
 			
 			  </div>
@@ -92,14 +119,16 @@
 									<div class="col-md-12">
 										<p>
 											<input type="submit" name="Submit" value="Submit" class="btn btn-primary" />
-											<input name="recipients" type="hidden" id="recipients" value="info_*_bluediamondtours.com" /> 
-											<!-- <input name="recipients" type="hidden" id="recipients" value="mysticbovine_*_gmail.com" />-->
+											<input type="hidden" id="referring_page" name="referring_page" value="<?php echo $referring_page; ?>" />
+                      <input name="recipients" type="hidden" id="recipients" value="info_*_bluediamondtours.com" /> 
+											<input name="recipients" type="hidden" id="recipients" value="mysticbovine_*_gmail.com" />
 			
 											<input name="good_url" type="hidden" id="good_url" value="good.php" />
 											<input name="subject" type="hidden" id="subject" value="Message from the website" />
 										</p>
 									</div>
 								</div>
+                <p class="well warning"><b>Please note:<b/> we do not offer scheduled bus tours - only on demand private tours.</p>
 							</div>
 										
 						</form>

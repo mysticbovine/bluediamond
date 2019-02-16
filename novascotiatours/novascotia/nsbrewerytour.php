@@ -460,12 +460,13 @@ company.</p>
 
 						</div>
 						<div class="col-md-4">
+              <?php include('../../includes/interested.php');?>
 							<div class="boxshadow">
-								<p class="lead ">Thanks for providing such a wonderful trip. Unfortunately they say one only retains 20% of what they hear - so althrough you had a wealth of knowleged I will only be remembering 20% of what you told us.</p>  
+								<p class="lead ">Thanks for providing such a wonderful trip. Unfortunately they say one only retains 20% of what they hear - so althrough you had a wealth of knowledge I will only be remembering 20% of what you told us.</p>  
 
 								<p><strong>Brenda</strong></p> 
 							</div>
-							<?php include('../../includes/interested.php');?>
+							
 						</div>
 					</div>
 				</div>

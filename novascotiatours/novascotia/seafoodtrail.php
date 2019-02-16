@@ -106,12 +106,13 @@
 
 						</div>
 						<div class="col-md-4">
+              <?php include('../../includes/interested.php');?>
 							<div class="boxshadow">
-								<p class="lead ">We'll rave about your knowlege which made everything come alive for us. Thanks so much - you are the best!</p>  
+								<p class="lead ">We'll rave about your knowledge which made everything come alive for us. Thanks so much - you are the best!</p>  
 
 								<p><strong>Shirley</strong></p> 
 							</div>
-							<?php include('../../includes/interested.php');?>
+							
 						</div>
 					</div>
 				</div>

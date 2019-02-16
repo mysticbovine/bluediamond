@@ -67,7 +67,7 @@
 				<div class="wrap">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-            <p>Thanks for providing such a wonderful trip. Unfortunately they say one only retains 20% of what they hear - so althrough you had a wealth of knowleged I will only be remembering 20% of what you told us.</p>
+            <p>Thanks for providing such a wonderful trip. Unfortunately they say one only retains 20% of what they hear - so althrough you had a wealth of knowledge I will only be remembering 20% of what you told us.</p>
             <p><strong>Brenda</strong></p>
 
             <p>It's been a wonderful trip. You have been a fountain of information. Thank you so much.</p>
@@ -94,7 +94,7 @@
 						<p>Thank you so much! You Da Man!</p>  
 						<p><strong>Jerry</strong></p>
 						<p>&nbsp;</p>
-						<p>We'll rave about your knowlege which made everything come alive for us.  Thanks so much - you are the best!</p>  
+						<p>We'll rave about your knoledge which made everything come alive for us.  Thanks so much - you are the best!</p>  
 						<p><strong>Shirley</strong></p>
 						<p>&nbsp;</p>
 						<p>All the best to the best!</p>  
