@@ -12,7 +12,7 @@
 	<meta name="author" content="Rob Evans alacarde.ca">
   <link rel="icon" href="../favicon.ico">
 
-  <title> Custom PEI Tours | Small Group Tours | Blue Diamond Tours </title>
+  <title> Custom PEI Tours | Prince Edward Island Sighteeing Tours | Blue Diamond Tours </title>
 
   <!-- Bootstrap core CSS -->
   <link href="../../css/bootstrap.min.css" rel="stylesheet">
@@ -47,8 +47,10 @@
 	
 	<div class="hero">
 		<div class="container">
-			<h1 class="page-title">PEI: The Gentle Island
-			<span class="welcome"> <span class="hidden-xs">Customized Tours of Canada's Maritime Province</span></span></h1>
+			<h1 class="page-title"><span class="welcome"> 
+        Prince Edward Island Sightseeing Tours</span>
+        PEI: The Gentle Island
+			</h1>
 		</div>
 		<img src="../../images/headers/pei.jpg" alt="Margaree River Valley, Cape Breton" class="img-responsive">
 	</div>
@@ -111,12 +113,12 @@
 
 						</div>
 						<div class="col-md-4">
+              <?php include('../../includes/interested.php');?>
 							<div class="boxshadow">
 								<p class="lead ">We really enjoyed our tours with (our guides).  Both were a lot of fun to be around and we certainly enjoyed all the local flavor that they brought to our walks & sightseeing.   we would appreciate you passing on our thanks for a great time.</p>  
 
 								<p><strong>Jim & Linda G</strong></p> 
 							</div>
-							<?php include('../../includes/interested.php');?>
 						</div>
 					</div>
 				</div>

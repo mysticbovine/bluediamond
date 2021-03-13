@@ -12,7 +12,7 @@
 	<meta name="author" content="Rob Evans alacarde.ca">
     <link rel="icon" href="../favicon.ico">
 
-    <title>Personal Sightseeing Tours | Nova Scotia, New Brunswick, Prince Edward Island, Cape Breton </title>
+    <title>Halifax Tours and Sightseeing | Nova Scotia</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../../css/bootstrap.min.css" rel="stylesheet">
@@ -41,8 +41,8 @@
 	global $pagetitle;
 	global $subtitle;
 	$page = "home";
-	$pagetitle = "Personal Sightseeing Tours";
-	$subtitle = "Nova Scotia | New Brunswick | Prince Edward Island | Cape Breton";
+	$pagetitle = "Blue Diamond Tours";
+	$subtitle = "Customized Tours of Canada's Maritime Provinces";
 	include('includes/nav.php');
 	include('includes/slider.php');
 	
@@ -53,8 +53,7 @@
 		<div class="container" role="top">
       <div class="row text-center">
         <div class="col-md-12">
-          <h1>Let us build your dream trip to Nova&nbsp;Scotia, New&nbsp;Brunswick and Prince&nbsp;Edward&nbsp;Island!</h1>
-          <p><a href="contact.php?referring_page=Home" class="btn btn-xl btn-warning">Contact us Today!</a>
+          <h1>Customized, Private, Personal Tours of Canada’s Maritime Provinces </h1>			
           <p class="lead">We offer a unique, personalized service creating private tailored trips for visitors to the Maritimes. We work with you to create your memorable Maritime experience, no visiting places you’re not really interested -  offering .. your tour, your way.</p>
           <p>What better way to see and experience the Maritimes than on your own private tour, doing what you want to do, in your own time and with your own personal tour guide!</p>	
           <ul class="homepage social">

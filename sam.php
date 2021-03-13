@@ -749,7 +749,7 @@ $ATTACK_DETECTION_SPECIALS = true;
 /* Help: http://www.tectite.com/fmdoc/attack_detection_specials.php */
 $ATTACK_DETECTION_SPECIALS_ONLY_EMAIL = array("derive_fields","required",
                                               "mail_options","good_url","bad_url","good_template",
-                                              "bad_template"
+                                              "bad_template","referring_page"
 );
 
 /* Help: http://www.tectite.com/fmdoc/attack_detection_specials.php */

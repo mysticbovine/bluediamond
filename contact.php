@@ -50,7 +50,7 @@
        $referring_page = "https"; 
     } else{
       $referring_page = "http"; 
-      
+    
       // Here append the common URL characters. 
       $referring_page .= "://"; 
         
@@ -62,8 +62,8 @@
             
       // Print the link 
       echo $referring_page; 
-    }
-        
+
+     }    
   }
 	global $page;
 	global $pagetitle;
@@ -120,8 +120,7 @@
 										<p>
 											<input type="submit" name="Submit" value="Submit" class="btn btn-primary" />
 											<input type="hidden" id="referring_page" name="referring_page" value="<?php echo $referring_page; ?>" />
-                      <input name="recipients" type="hidden" id="recipients" value="info_*_bluediamondtours.com" /> 
-											<input name="recipients" type="hidden" id="recipients" value="mysticbovine_*_gmail.com" />
+                      <input name="recipients" type="hidden" id="recipients" value="info_*_bluediamondtours.com" />
 			
 											<input name="good_url" type="hidden" id="good_url" value="good.php" />
 											<input name="subject" type="hidden" id="subject" value="Message from the website" />

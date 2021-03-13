@@ -12,7 +12,7 @@
 	<meta name="author" content="Rob Evans alacarde.ca">
   <link rel="icon" href="../favicon.ico">
 
-  <title>Ye Olde Halifax| Blue Diamond Tours | Halifax Tours and Sightseeing | Nova Scotia</title>
+  <title>Ye Olde Halifax| Halifax Sightseeing Tours | Blue Diamond Tours | Nova Scotia</title>
 
   <!-- Bootstrap core CSS -->
   <link href="../../css/bootstrap.min.css" rel="stylesheet">
@@ -46,8 +46,10 @@
 	
 	<div class="hero">
 		<div class="container">
-			<h1 class="page-title">Ye Olde Halifax 
-			<span class="welcome hidden-xs">Customized Tours of Canada's Maritime Provinces</span></h1>
+			<h1 class="page-title">
+        <span class="welcome">Halifax Sightseeing Tours</span>
+        Ye Olde Halifax 
+			</h1>
 			
 		</div>
 		<img src="../../images/headers/yeoldehalifax.jpg" alt="Dalhousie building covered in red leafy vines." class="img-responsive">
@@ -166,13 +168,13 @@
 						</div>
 						</div>
 						<div class="col-md-4">
-						
-							<div class="boxshadow">
+              <?php include('../../includes/interested.php');?>
+							<div class="boxshadow">                
 								<p class="lead ">We had a wonderful time on your tour thanks for the great day. Your kindness and knowledge made the day a wonderful experience.</p>
 
 								<p><strong>Iva E from Florida</strong></p> 
 							</div>
-							<?php include('../../includes/interested.php');?>
+							
 						</div>
 					</div>
 				</div>

@@ -12,7 +12,7 @@
 	<meta name="author" content="Rob Evans alacarde.ca">
   <link rel="icon" href="../favicon.ico">
 
-  <title>Cabot Trail | Cape Breton | Blue Diamond Tours | Nova Scotia</title>
+  <title>Cabot Trail | Cape Breton Sightseeing Tours | Blue Diamond Tours</title>
 
   <!-- Bootstrap core CSS -->
   <link href="../../css/bootstrap.min.css" rel="stylesheet">
@@ -48,8 +48,10 @@
 	
 	<div class="hero">
 		<div class="container">
-			<h1 class="page-title">Cabot Trail Tour
-			<span class="welcome"> <span class="hidden-xs">Customized Tours of Canada's Maritime Province</span></span></h1>
+			<h1 class="page-title">
+        <span class="welcome">Cape Breton Sightseeing Tours</span>
+        Cabot Trail Tour
+			</h1>
 		</div>
 			<img src="../../images/headers/cabot.jpg" alt="Margaree River Valley, Cape Breton" class="img-responsive">
 	</div>
@@ -99,12 +101,13 @@
 
 						</div>
 						<div class="col-md-4">
+              <?php include('../../includes/interested.php');?>
 							<div class="boxshadow">
 								<p class="lead ">We have travelled extensively on bus tours with other companies but have enjoyed the extra special care we received when travelling with Blue Diamond Tours and highly recommend you consider using Blue Diamond Tours for your next vacation</p>  
 
 								<p><strong>Roma A & Roy J</strong></p> 
 							</div>
-							<?php include('../../includes/interested.php');?>
+							
 						</div>
 					</div>
 				</div>

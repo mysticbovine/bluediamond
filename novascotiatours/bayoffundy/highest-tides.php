@@ -47,8 +47,10 @@
 	
 	<div class="hero">
 		<div class="container">
-			<h1 class="page-title">Home of the  Highest Tides
-			<span class="welcome"> <span class="hidden-xs">Customized Tours of Canada's Maritime Province</span></span></h1>
+			<h1 class="page-title">
+        <span class="welcome">Bay of Fundy Sightseeing Tours</span>
+        Home of the  Highest Tides
+			</h1>
 		</div>
 		<img src="../../images/headers/highesttides.jpg" alt="Image of fishing boats on the red mud of a low tide on the Bay of Fundy" class="img-responsive">
 	</div>
@@ -112,12 +114,13 @@
 						</div>
 						</div>
 						<div class="col-md-4">
+              <?php include('../../includes/interested.php');?>
 							<div class="boxshadow">
 								<p class="lead ">Thank you for the wonderful trip and all the wonderful things you did for us. It was and will be a treasured memory.</p>    
 
 								<p><strong>Margaret & Joe Patterson<br /> Dartmouth, NS</strong></p> 
 							</div>
-							<?php include('../../includes/interested.php');?>
+						
 						</div>
 					</div>
 				</div>

@@ -12,7 +12,7 @@
 	<meta name="author" content="Rob Evans alacarde.ca">
   <link rel="icon" href="../favicon.ico">
 
-  <title>Scotland’s New and Old | Blue Diamond Tours | Nova Scotia</title>
+  <title>Scotland’s New and Old | Blue Diamond Tours | Nova Scotia Sightseeing Tours</title>
 
   <!-- Bootstrap core CSS -->
   <link href="../../css/bootstrap.min.css" rel="stylesheet">
@@ -47,8 +47,10 @@
 	
 	<div class="hero">
 		<div class="container">
-			<h1 class="page-title">Scotland's New and Old  
-			<span class="welcome"> <span class="hidden-xs">Customized Tours of Canada's Maritime Province</span></span></h1>
+			<h1 class="page-title">
+        <span class="welcome">Nova Scotia Sightseeing Tours</span>
+      Scotland's New and Old  Tour
+			</h1>
 		</div>
 		<img src="../../images/headers/oldscotland.jpg" alt="Room full of old computer banks." class="img-responsive">
 	</div>

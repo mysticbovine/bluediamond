@@ -13,7 +13,7 @@ $referring_page .= "://";
 $referring_page .= $_SERVER['HTTP_HOST']; 
   
 // Append the requested resource location to the URL 
-$referring_page .= $_SERVER['REQUEST_URI']; 
+$referring_page = $_SERVER['REQUEST_URI']; 
       
 // Print the link 
 
